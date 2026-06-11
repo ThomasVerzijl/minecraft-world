@@ -1,18 +1,23 @@
 {
   "stats": {
-    "minecraft:custom": {
-      "minecraft:time_since_rest": 1063,
-      "minecraft:walk_one_cm": 343,
-      "minecraft:total_world_time": 2594,
-      "minecraft:leave_game": 2,
-      "minecraft:fly_one_cm": 12993,
-      "minecraft:sneak_time": 40,
-      "minecraft:play_time": 1063,
-      "minecraft:jump": 8,
-      "minecraft:time_since_death": 1063
-    },
     "minecraft:used": {
-      "minecraft:stone": 100
+      "minecraft:stone": 100,
+      "minecraft:pig_spawn_egg": 1
+    },
+    "minecraft:dropped": {
+      "minecraft:stone": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 1821,
+      "minecraft:walk_one_cm": 606,
+      "minecraft:total_world_time": 3904,
+      "minecraft:leave_game": 3,
+      "minecraft:fly_one_cm": 14154,
+      "minecraft:sneak_time": 81,
+      "minecraft:play_time": 1821,
+      "minecraft:jump": 13,
+      "minecraft:time_since_death": 1821,
+      "minecraft:drop": 1
     }
   },
   "DataVersion": 4790
