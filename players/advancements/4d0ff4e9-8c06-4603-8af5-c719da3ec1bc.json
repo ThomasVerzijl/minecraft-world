@@ -1,4 +1,16 @@
 {
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-06-11 15:11:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:windswept_savanna": "2026-06-11 15:11:52 +0200"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2026-06-11 15:12:26 +0200"
@@ -20,12 +32,6 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2026-06-11 15:12:26 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "unlock_right_away": "2026-06-11 15:11:51 +0200"
     },
     "done": true
   },
@@ -100,12 +106,6 @@
       "has_stone": "2026-06-11 15:12:26 +0200"
     },
     "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:windswept_savanna": "2026-06-11 15:11:52 +0200"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/cobblestone_from_stone_stonecutting": {
     "criteria": {
